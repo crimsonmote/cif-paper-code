@@ -1,0 +1,25 @@
+[project]
+name = "cif-paper-code"
+version = "1.0.0"
+description = "Code for computing the Commercialization Influence Factor (CIF) and reproducing the paper's results"
+readme = "README.md"
+license = "MIT"
+authors = [
+    { name = "Xiaochen Kev Gao" },
+    { name = "Karthik Ramachandran" },
+    { name = "Raghupathy Sivakumar" },
+]
+requires-python = ">=3.10"
+dependencies = [
+    "keyring",
+    "matplotlib",
+    "neo4j",
+    "numpy",
+    "pandas",
+    "pymongo>=4.9",  # AsyncMongoClient (OpenAlex ingest)
+    "scipy",
+    "tqdm",
+]
+
+[tool.uv]
+package = false

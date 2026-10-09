@@ -1,0 +1,9 @@
+Data S1 is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC 4.0): https://creativecommons.org/licenses/by-nc/4.0/
+
+It is derived in part from the Reliance on Science database (Marx and Fuegi;
+doi:10.5281/zenodo.11461587), which is distributed under CC BY-NC 4.0, and from
+the Founding Patents data (Ewens and Marx; doi:10.5281/zenodo.12706672 and
+doi:10.5281/zenodo.10250493, CC BY 4.0) and OpenAlex (CC0).
+
+The code in this repository is licensed separately under the MIT License (../LICENSE).
